@@ -1,0 +1,6 @@
+13:20:26.388 server started (pid 448)
+13:20:26.459 k6 started (2m)
+13:21:16.576 SERVER KILLED (crash)
+13:21:26.718 server restart command issued
+13:21:27.054 first successful response after restart
+13:22:28.606 k6 finished, exit=99
